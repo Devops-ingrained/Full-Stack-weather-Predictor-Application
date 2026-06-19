@@ -14,5 +14,7 @@ A full-stack data analytics and strategic planning application built with **Stre
 ---
 
 ## 📺 Application Demo & Logs
-*(See the attached screen recording below to view the operational dashboard interface and live backend server log outputs).*
-![](Full stack Weather App.mp4) 
+
+▶️ **[Click Here to Watch the Project Video](https://drive.google.com/file/d/15dc43Yxq_jJ924XyxVt_GCC9Bb1_AZG7/view?usp=sharing)**
+
+*(Note: Click the link above to view the full operational dashboard interface and live backend server log outputs directly).*
