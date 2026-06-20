@@ -17,4 +17,4 @@ A full-stack data analytics and strategic planning application built with **Stre
 
 ▶️ *[Click Here to Watch the Project Video](https://drive.google.com/file/d/1p-QN1rJtA-6eewSk8mCNdzn008x_DEu8/view?usp=sharing)*
 
-*(Note: Click the link above to view the full operational dashboard interface, Statistical visualization and Predictive A.I).*
+*(Note: Click the link above to view full operational dashboard interface, Statistical visualization and Predictive A.I).*
